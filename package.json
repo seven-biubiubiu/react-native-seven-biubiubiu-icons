@@ -1,6 +1,6 @@
 {
-  "name": "react-native-vector-icons",
-  "version": "4.2.0",
+  "name": "react-native-seven-biubiubiu-icons",
+  "version": "1.0.1",
   "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
   "main": "index.js",
   "bin": {
@@ -44,13 +44,13 @@
     "name": "Joel Arvidsson",
     "email": "joel@oblador.se"
   },
-  "homepage": "https://github.com/oblador/react-native-vector-icons",
+  "homepage": "https://github.com/seven-biubiubiu/react-native-seven-biubiubiu-icons",
   "bugs": {
-    "url": "https://github.com/oblador/react-native-vector-icons/issues"
+    "url": "https://github.com/seven-biubiubiu/react-native-seven-biubiubiu-icons/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/oblador/react-native-vector-icons.git"
+    "url": "git://github.com/seven-biubiubiu/react-native-seven-biubiubiu-icons.git"
   },
   "license": "MIT",
   "rnpm": {

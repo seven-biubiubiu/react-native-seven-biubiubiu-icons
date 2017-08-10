@@ -1,6 +1,6 @@
 {
   "name": "react-native-seven-biubiubiu-icons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
   "main": "index.js",
   "bin": {
